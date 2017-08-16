@@ -1,0 +1,12 @@
+{
+  "name": "srt_merger",
+  "version": "0.0.1",
+  "main": "index.js",
+  "dependencies": {
+    "ap": "^0.2.0",
+    "fs": "0.0.1-security",
+    "iterators": "^0.3.3",
+    "jquery": "^3.2.1",
+    "xtend": "^4.0.1"
+  }
+}
